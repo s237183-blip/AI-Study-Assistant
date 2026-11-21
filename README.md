@@ -6,7 +6,7 @@ Hệ thống web trợ lý học tập thông minh hỗ trợ tóm tắt, tra c�
 
 - **Họ và tên:** Đặng Trần Bích Ngân
 - **MSSV:** 237183
-- **Lớp:** 
+- **Lớp:** DH23TIN09
 - **Giảng viên hướng dẫn:** ...
 
 ## 🚀 Giới thiệu đề tài
